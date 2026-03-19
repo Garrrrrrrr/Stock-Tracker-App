@@ -51,4 +51,9 @@ This project demonstrates practical experience with:
 - Auto-scheduler to re-scrape new data daily
 - Alert system when new trades are detected
 
+![Render Output](images/stock1.png)
+![Render Output](images/stock2.png)
+![Render Output](images/stock3.png)
+![Render Output](images/stock4.png)
+![Render Output](images/stock5.png)
 ---
